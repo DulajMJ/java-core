@@ -1,6 +1,10 @@
 package concept_final;
 
-public class Employee {
+public final class Employee {
 
-    void m(){}
+
+    void m(){
+
+    }
+
 }
